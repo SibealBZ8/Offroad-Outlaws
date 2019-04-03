@@ -1,0 +1,21 @@
+{
+    "name": "offroad-outlaws-hack/offroad-outlaws-hack-mod-apk-get-unlimited-gold",
+    "description": "Offroad Outlaws Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Offroad Outlaws",
+            "homepage": "http://astuces.cf/Offroad-Outlaws/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
